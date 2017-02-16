@@ -28,7 +28,7 @@ img{
         <p class="animated wobble">Professional Artist by Night</p>
 
 <p id="helloText">?</p>
-<button id="clickButton" class="buttonStyle">ayy lmao come in</button>
+<button id="clickButton" class="buttonStyle">ayy lmao</button>
 
 <script> 
 var myButton = document.getElementById("clickButton");
