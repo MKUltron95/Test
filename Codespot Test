@@ -27,8 +27,8 @@ img{
         <p class="animated flash">Beginner Coder</p>
         <p class="animated wobble">Professional Artist by Night</p>
 
-<p id="helloText">?</p>
-<button id="clickButton" class="buttonStyle">"ayy lmao"</button>
+<p id="helloText">?</p> 
+	<button id="clickButton" class="buttonStyle">ayy lmao</button>
 
 <script> 
 var myButton = document.getElementById("clickButton");
