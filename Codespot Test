@@ -8,7 +8,7 @@
     text-align: center;
     font-family: "Arial";
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url('https://static.pexels.com/photos/243136/pexels-photo-243136.jpeg');
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url('https://images.pexels.com/photos/53519/mountaineer-train-syringe-dawn-sunrise-53519.jpeg');
     background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
